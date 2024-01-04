@@ -26,9 +26,14 @@ Action<int> exibirNumerosPares = numero =>
     {
         Console.Write(numero + " ");
     }
+    
 };
 
-Array.ForEach(numerosInteiros1, exibirNumerosPares);
+// Executando de diferentes formas: 
+//Array.ForEach(numerosInteiros1, exibirNumerosPares);
+numerosInteiros1.ToList().ForEach(exibirNumerosPares);
+//numerosInteiros2.ToList().ForEach(exibirNumerosPares);
+//listaNumeros.ForEach(exibirNumerosPares);
 
 Console.ReadKey();
 
