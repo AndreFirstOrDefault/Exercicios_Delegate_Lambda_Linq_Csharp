@@ -8,7 +8,7 @@ imprima na tela apenas os números pares.
 Console.Title = "Delegate Action";
 
 // Opção, inserindo números de forma manual
-int[] numerosInteiros1 = new int[] {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 };
+int[] numerosInteiros1 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
 
 // Usando for para adicionar numeros na lista
 int[] numerosInteiros2 = new int[20];
@@ -26,7 +26,7 @@ Action<int> exibirNumerosPares = numero =>
     {
         Console.Write(numero + " ");
     }
-    
+
 };
 
 // Executando de diferentes formas: 
