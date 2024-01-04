@@ -8,5 +8,5 @@ https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lam
 ## Linq
 https://learn.microsoft.com/pt-br/dotnet/csharp/linq/
 
-Aqui está o link caso você queira fazer os exercícios
-[Link para acessar o pdf de exercícios] (Exercicios_Delegates_Lambda.pdf)
+## Exercícios em PDF
+[Clique para acessar os exercícios](https://github.com/andrejava2022/Exercicios_Delegate_Lambda_Linq_Csharp/blob/main/DelegatesLambdaLinq/Exercicios_Delegates_Lambda.pdf)
