@@ -1,11 +1,11 @@
-Exercicios propostos sobre:
-Delegate
+# Exercicios propostos sobre:
+## Delegate
 https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/delegates/using-delegates
 
-Lambda
+## Lambda
 https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lambda-expressions
 
-Linq
+## Linq
 https://learn.microsoft.com/pt-br/dotnet/csharp/linq/
 
 Aqui está o link caso você queira fazer os exercícios
